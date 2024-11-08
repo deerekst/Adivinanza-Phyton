@@ -1,8 +1,8 @@
-# Juego de Adivnanza en Phyton
+# Juego de Adivinanza en Phyton
 
 Es un juego muy simple utilizando variables y condicionales, es mi primer mini juego en Phyton y estoy muy contento y con muchas ganas de seguir aprendiendo programación.
 
-## Requsitos
+## Requisitos
 
 - Phyton
 - Visual Studio Code
